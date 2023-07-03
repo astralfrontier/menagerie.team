@@ -2,13 +2,11 @@
 title: Home
 description: The homepage for the menagerie.team website
 published: true
-date: 2023-07-03T00:40:27.269Z
+date: 2023-07-03T00:44:32.415Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-02T21:58:43.594Z
 ---
-
-![cloud-strife-dissidia-final-fantasy-2015-2018.jpg](/cloud-strife-dissidia-final-fantasy-2015-2018.jpg)
 
 # Introduction
 
