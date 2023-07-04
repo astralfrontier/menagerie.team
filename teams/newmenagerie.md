@@ -2,11 +2,13 @@
 title: Newmenagerie
 description: A Phase 3 team
 published: true
-date: 2023-07-02T23:28:10.914Z
+date: 2023-07-03T01:22:27.795Z
 tags: team, phase 3
 editor: markdown
 dateCreated: 2023-07-02T23:28:08.111Z
 ---
+
+![newmen.png](/characters/newmenagerie/newmen.png)
 
 # Introduction
 
