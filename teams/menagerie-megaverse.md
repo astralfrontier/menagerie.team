@@ -2,13 +2,11 @@
 title: Menagerie Megaverse
 description: A Phase 3 team
 published: true
-date: 2023-07-03T01:21:46.234Z
+date: 2023-07-04T22:16:08.802Z
 tags: team, phase 3
 editor: markdown
 dateCreated: 2023-07-02T23:30:54.225Z
 ---
-
-![megaverse logo.png](/characters/menagerie-megaverse/megaverse%20logo.png){.align-center}
 
 # Introduction
 
