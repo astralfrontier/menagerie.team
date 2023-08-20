@@ -2,7 +2,7 @@
 title: Character Template
 description: 
 published: false
-date: 2023-08-20T08:04:43.785Z
+date: 2023-08-20T08:09:06.266Z
 tags: character
 editor: markdown
 dateCreated: 2023-08-20T08:04:43.785Z
@@ -14,18 +14,26 @@ Image link
 
 Character description here
 
-# Phase 1
+# History
+
+## Phase 1
 
 What were they up to?
 
-# Phase 2
+## Phase 2
 
 What were they up to?
 
-# Phase 3
+## Phase 3
 
 What were they up to?
 
 # Relationships
 
 Allies, enemies, all that stuff
+
+# Sentinels of the Multiverse
+
+Any Sentinel-specific lore here
+
+# Gallery
