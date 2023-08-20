@@ -2,7 +2,7 @@
 title: The Marvelous Menagerie
 description: A Phase 3 team
 published: true
-date: 2023-07-02T23:31:18.580Z
+date: 2023-08-20T08:26:26.229Z
 tags: team, phase 3
 editor: markdown
 dateCreated: 2023-07-02T22:57:11.952Z
@@ -16,7 +16,7 @@ dateCreated: 2023-07-02T22:57:11.952Z
 
 # Roster
 
-- Mercury (Harry Gale)
+- [Mercury](/characters/mercury) (Harry Gale)
 - A10 (Andi Fairchild)
 - Stingray (Trace)
 - Ninjess (Shinkai Hafuko)
