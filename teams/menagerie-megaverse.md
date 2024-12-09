@@ -2,7 +2,7 @@
 title: Menagerie Megaverse
 description: A Phase 3 team
 published: true
-date: 2023-07-04T22:16:08.802Z
+date: 2024-12-09T01:46:18.664Z
 tags: team, phase 3
 editor: markdown
 dateCreated: 2023-07-02T23:30:54.225Z
@@ -16,7 +16,7 @@ dateCreated: 2023-07-02T23:30:54.225Z
 
 # Roster
 
-- Concord (Adam Amari)
+- [Concord](/characters/concord) (Adam Amari)
 - Armiger (William Eddison)
 - Jaycee
 - Princess Peri (Jordan Amari)
